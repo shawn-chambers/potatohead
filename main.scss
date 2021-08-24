@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+section {
+  padding: 4rem;
+  height: 100vh;
+  position: relative;
+  box-sizing: border-box;
+}
+
+img {
+  position: absolute;
+}
+
+.sticky {
+  margin: 20rem 0;
+}
+
+#body {
+  top: 20px;
+  left: calc(50vw - 100px);
+}
+
+#shoes {
+  top: 290px;
+  left: calc(50vw - 115px);
+}
+
+#mustache {
+  top: 150px;
+  left: calc(50vw - 60px);
+}
+
+#glasses {
+  top: 70px;
+  left: calc(50vw - 90px);
+}
+
+#left-arm {
+  top: 70px;
+  left: calc(50vw + 90px);
+}
+
+#right-arm {
+  top: 170px;
+  left: calc(50vw - 210px);
+}
+
+#left-ear {
+  top: 70px;
+  left: calc(50vw - -86px);
+}
+
+#right-ear {
+  top: 80px;
+  left: calc(50vw - 155px);
+}
+
+#eyes {
+  top: 89px;
+  left: calc(50vw - 57px);
+}
