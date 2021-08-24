@@ -1,0 +1,15 @@
+{
+  "name": "potatohead",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shawn-chambers/potatohead.git",
+  "author": "shawn-chambers <chambers.shawn.89@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  },
+  "scripts": {
+    "start": "live-server public",
+    "sass": "node-sass main.scss public/index.css -w"
+  }
+}
